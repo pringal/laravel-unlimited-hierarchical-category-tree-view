@@ -5,7 +5,7 @@ This tutorial is about the unlimited hierarchical category in Laravel 5.8. You c
 **Installation**
 -
 
-Step 1. clone package [git clone https://github.com/pringal/laravel-unlimited-hierarchical-category-tree-view]
+Step 1. clone package [git clone https://github.com/pringal/laravel-unlimited-hierarchical-category-tree-view.git]
 
 Step 2. install composer dependency [composer install]
 
@@ -15,7 +15,7 @@ Step 3. Follow this article <a href="https://codescompanion.com/laravel-unlimite
 **Contribute**
 -
 
-Contributions are welcome and will be fully credited. We accept contributions via Pull Requests on [GitHub](https://github.com/pringal/laravel-unlimited-hierarchical-category-tree-view).
+Contributions are welcome and will be fully credited. We accept contributions via Pull Requests on [GitHub](https://github.com/pringal/https://github.com/pringal/laravel-unlimited-hierarchical-category-tree-view.git).
 
 **Loveware**
 -
